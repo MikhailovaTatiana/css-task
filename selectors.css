@@ -1,7 +1,9 @@
 /* Välj lämplig selektor och styla det som är angett! Skriv endast här i CSS dokumentet, ändra inte i HTML-dokumentet!*/
 
 /* 1. Ge alla element på sidan en 'box-sizing: border-box;' */
-
+* {
+    box-sizing: border-box;
+}
 
 /* 2. <body> elementet ska ha bakgrundsfärg #bdc3c7*/
 
