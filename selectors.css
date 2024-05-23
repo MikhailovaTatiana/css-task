@@ -71,7 +71,9 @@ a:visited {
 }
 
 /* 15. Alla inmatningsfält (input) av typ 'text' ska ha grå bakgrund */
-
+input[type="text"] {
+    background-color: grey;
+}
 
 /* 16. Alla checkboxrutor som är 'checked' ska får en vänstermarginal på 50px (margin-left: 50px) */
 
