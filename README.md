@@ -9,3 +9,5 @@ Denna övning är till för att öva grunderna inom CSS Selektorer.
 Till din hjälp är denna [lista på de mest 30 användbara selektorerna](https://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048)
 
 Obs! Du får inte ändra något i HTML
+
+<figure><img src="screencapture-css-task.png" alt="screencapture of the whole page"></figure>

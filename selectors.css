@@ -103,5 +103,8 @@ ul li:first-child {
     color: #fff;
 }
 
-/* 21. Ge den andra paragrafen i .contatinern en röd färg  font-size till 32px; (En utmaning...)*/
-
+/* 21. Ge den andra paragrafen i .containern en röd färg  font-size till 32px; (En utmaning...)*/
+.container p:nth-child(6) {
+    color: red;
+    font-size: 32px;
+}
