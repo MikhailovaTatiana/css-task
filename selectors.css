@@ -88,7 +88,10 @@ input:checked {
 }
 
 /* 18. Endast första listelementet i ul-listan ska få färg och font-size: 20px */
-
+ul li:first-child {
+    color: #9b59b6;
+    font-size: 20px;
+}
 
 /* 19. Ge alla p som kommer direkt efter h2-elementet i den tredje div-en (class="third") en turkos bakgrundsfärg Tips: Adjacent sibling selector*/
 
