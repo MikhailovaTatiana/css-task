@@ -21,7 +21,9 @@ h2 {
 }
 
 /* 5. Alla <li> element i en ul-lista ska ha blå färg (välj valfri hexadecimal färg)*/
-
+ul li {
+    color: rgb(32, 32, 146);
+}
 
 /* 6. Alla p ska ha en gul bakgrundsfärg*/
 
