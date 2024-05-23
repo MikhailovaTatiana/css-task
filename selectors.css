@@ -26,7 +26,9 @@ ul li {
 }
 
 /* 6. Alla p ska ha en gul bakgrundsfärg*/
-
+p {
+    background-color: yellow;
+}
 
 /* 7. Alla inmatningsfält (input) ska ha en border på '3px solid red'*/
 
