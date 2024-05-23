@@ -75,8 +75,10 @@ input[type="text"] {
     background-color: grey;
 }
 
-/* 16. Alla checkboxrutor som är 'checked' ska får en vänstermarginal på 50px (margin-left: 50px) */
-
+/* 16. Alla checkboxrutor som är 'checked' ska få en vänstermarginal på 50px (margin-left: 50px) */
+input:checked {
+    margin-left: 50px;
+}
 
 /* BONUSUPPGIFTER 17-21 */
 
