@@ -82,9 +82,10 @@ input:checked {
 
 /* BONUSUPPGIFTER 17-21 */
 
-
 /* 17. Ge alla p som är direkta barn till .container en font-weight på 700 */
-
+.container > p {
+    font-weight: 700;
+}
 
 /* 18. Endast första listelementet i ul-listan ska få färg och font-size: 20px */
 
