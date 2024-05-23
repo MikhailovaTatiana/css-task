@@ -31,7 +31,9 @@ p {
 }
 
 /* 7. Alla inmatningsfält (input) ska ha en border på '3px solid red'*/
-
+input {
+    border: 3px solid red;
+}
 
 /* 8. Alla element med class 'hello' ska ha en vit bakgrund*/
 
