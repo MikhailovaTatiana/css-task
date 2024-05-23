@@ -15,9 +15,10 @@ h1 {
     color: #9b59b6;
 }
 
-
 /* 4. Alla underubriker <h2> ska ha en orange färg */
-
+h2 {
+    color: orange;
+}
 
 /* 5. Alla <li> element i en ul-lista ska ha blå färg (välj valfri hexadecimal färg)*/
 
