@@ -6,7 +6,9 @@
 }
 
 /* 2. <body> elementet ska ha bakgrundsfärg #bdc3c7*/
-
+body {
+    background-color: #bdc3c7;
+}
 
 /* 3. Rubriken <h1> ska ha färg #9b59b6*/
 
