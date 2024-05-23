@@ -61,7 +61,9 @@ div p {
 }
 
 /* 13. Gör så att <h1> elementet får färgen blå när musen är över elementet (:hover) */
-
+h1:hover {
+    color: blue;
+}
 
 /* 14. Gör så att alla besökta <a> element får färgen grå (:visited) */
 
