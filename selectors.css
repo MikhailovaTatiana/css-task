@@ -41,7 +41,9 @@ input {
 }
 
 /* 9. Elementet med id 'special' ska ha en border på '2px solid blue'*/
-
+#special {
+    border: 2px solid blue;
+}
 
 /* 10. Alla <p> och <div> ska ha färgen svart #000*/
 
