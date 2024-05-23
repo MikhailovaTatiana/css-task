@@ -56,7 +56,9 @@ div p {
 }
 
 /* 12. Ge alla em i den fjärde div-en med class="fourth" en 'text-docration: underline;*/
-
+.fourth em {
+    text-decoration: underline;
+}
 
 /* 13. Gör så att <h1> elementet får färgen blå när musen är över elementet (:hover) */
 
