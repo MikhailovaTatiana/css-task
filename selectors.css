@@ -36,7 +36,9 @@ input {
 }
 
 /* 8. Alla element med class 'hello' ska ha en vit bakgrund*/
-
+.hello {
+    background-color: white;
+}
 
 /* 9. Elementet med id 'special' ska ha en border på '2px solid blue'*/
 
