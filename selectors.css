@@ -46,7 +46,9 @@ input {
 }
 
 /* 10. Alla <p> och <div> ska ha färgen svart #000*/
-
+p, div {
+    color: black;
+}
 
 /* 11. Alla  <p> som ligger nästladee (inuti) en div ska ha font-size: 22px*/
 
