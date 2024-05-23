@@ -66,7 +66,9 @@ h1:hover {
 }
 
 /* 14. Gör så att alla besökta <a> element får färgen grå (:visited) */
-
+a:visited {
+    color: grey;
+}
 
 /* 15. Alla inmatningsfält (input) av typ 'text' ska ha grå bakgrund */
 
