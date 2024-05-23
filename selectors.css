@@ -51,7 +51,9 @@ p, div {
 }
 
 /* 11. Alla  <p> som ligger nästladee (inuti) en div ska ha font-size: 22px*/
-
+div p {
+    font-size: 22px;
+}
 
 /* 12. Ge alla em i den fjärde div-en med class="fourth" en 'text-docration: underline;*/
 
